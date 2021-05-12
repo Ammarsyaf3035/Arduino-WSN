@@ -107,8 +107,14 @@ To get a local copy up and running follow these simple steps.
 ### Hardware
 1. Gateway
 
+[![Gateway Screen Shot][Gateway-screenshot]](https://tinyurl.com/yhq6l9zb)
+(Click the picture simulate in falstad circuit simulator)
+
 2. Sensor Node (I2C Sensor)
+
 [![Sensor Node Screen Shot][sensorNode-screenshot]](https://tinyurl.com/yze45sqd)
+(Click the picture simulate in falstad circuit simulator)
+
 
 ### Prerequisites
 
@@ -202,4 +208,5 @@ Project Link: [https://github.com/Ammarsyaf3035/Arduino-Network](https://github.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ammar-syafiq-sabaahul-ahmad-042ba9156/
 [Framework-screenshot]: images/Framework.PNG
+[Gateway-screenshot]: images/Gateway.PNG
 [sensorNode-screenshot]: images/sensorNode.PNG
