@@ -106,7 +106,9 @@ To get a local copy up and running follow these simple steps.
 
 ### Hardware
 1. Gateway
-![Sensor Node Screen Shot][sensorNode-screenshot]
+
+2. Sensor Node (I2C Sensor)
+[![Sensor Node Screen Shot][sensorNode-screenshot]](https://tinyurl.com/yze45sqd)
 
 ### Prerequisites
 
