@@ -85,7 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot][product-screenshot]
+![Product Name Screen Shot][Framework-screenshot]
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -106,6 +106,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Hardware
 1. Gateway
+![Sensor Node Screen Shot][sensorNode-screenshot]
 
 ### Prerequisites
 
@@ -198,4 +199,5 @@ Project Link: [https://github.com/Ammarsyaf3035/Arduino-Network](https://github.
 [license-url]: https://github.com/Ammarsyaf3035/Arduino-Network/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ammar-syafiq-sabaahul-ahmad-042ba9156/
-[product-screenshot]: images/Framework.PNG
+[Framework-screenshot]: images/Framework.PNG
+[sensorNode-screenshot]: images/sensorNode.PNG
