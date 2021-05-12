@@ -36,10 +36,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Arduino Sensor Network</h3>
 
   <p align="center">
-    project_description
+    Arduino network using RF 433MHz and GSM Module
     <br />
     <a href="https://github.com/Ammarsyaf3035/Arduino-Network"><strong>Explore the docs »</strong></a>
     <br />
