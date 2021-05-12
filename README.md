@@ -87,9 +87,9 @@
 
 ![Product Name Screen Shot][Framework-screenshot]
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+Project difficulty:
+**Grandmaster, it involves several skills:**
+`Electronics`, `Advanced Arduino Programming Knowledge`, `Exceptional Soldering Skill`, `GSM Protocol`, `Radio Frequency`, `Basic Multimeter Knowledge`
 
 
 ### Built With
@@ -102,7 +102,7 @@ Here's a blank template to get started:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+There are three section 
 
 ### 1. Gateway
 
