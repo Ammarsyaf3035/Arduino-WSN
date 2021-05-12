@@ -104,13 +104,24 @@ Here's a blank template to get started:
 
 To get a local copy up and running follow these simple steps.
 
-### Hardware
-1. Gateway
+### 1. Gateway
 
 [![Gateway Screen Shot][Gateway-screenshot]](https://tinyurl.com/yhq6l9zb)
 (Click the picture simulate in falstad circuit simulator)
 
-2. Sensor Node (I2C Sensor)
+Material required
+1. [Arduino Nano (UNO can be used)](https://my.cytron.io/p-uno-compatible-ch340-with-usb-cable?search=uno&description=1)
+2. [Proto shield](https://my.cytron.io/p-cytron-prototyping-shield?search=proto&description=1)
+3. [Logic shifter (5V and 3.3V)](https://shopee.com.my/Logic-Converter-4-Channel-Bi-Directional-5V-3.3V-Level-Shifter-Module-i.13050358.1897892238)
+4. [HC-12 RF433MHz Module](https://my.cytron.io/c-wireless-devices/p-433mhz-rf-uart-transceiver-module-1km)
+5. [GSM SIM800L Module](https://shopee.com.my/Arduino-SIM800L-GPRS-GSM-Tracking-Module-with-Antena-SIM-Slot-i.33287405.462065175)
+6. [9V Power Supply](https://shopee.com.my/AC-DC-Adapter-9V-1A-Power-Supply-Arduino-PIC-i.13050358.1696099696)
+7. [PNP MOSFET IRF4905](https://my.cytron.io/p-transistor-irf4905?search=IRF4905&description=1&sub_category=true)
+8. [BJT NPN 2N2222](https://my.cytron.io/p-transistor-2n2222?search=2N2222&description=1)
+9. [LDO 3.3V LM1117](https://my.cytron.io/p-voltage-regulator-plus-3.3v-1880?search=3.3&description=1)
+10. [LDO Adjustable LM317](https://my.cytron.io/p-ic-lm317?search=lm317&description=1)
+
+### 2. Sensor Node (I2C Sensor)
 
 [![Sensor Node Screen Shot][sensorNode-screenshot]](https://tinyurl.com/yze45sqd)
 (Click the picture simulate in falstad circuit simulator)
