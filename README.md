@@ -39,7 +39,7 @@
   <h3 align="center">Arduino Sensor Network</h3>
 
   <p align="center">
-    Arduino network using RF 433MHz and GSM Module
+    A comprehensive tutorial on developing Arduino network using RF 433MHz and GSM Module
     <br />
     <a href="https://github.com/Ammarsyaf3035/Arduino-Network"><strong>Explore the docs »</strong></a>
     <br />
