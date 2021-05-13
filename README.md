@@ -88,7 +88,7 @@ There are three section
 
 ### 1. Gateway
 
-[![Gateway Screen Shot][Gateway-screenshot]](https://tinyurl.com/yhq6l9zb)
+[![Gateway Screen Shot][Gateway-screenshot]](https://tinyurl.com/y7dxtdnn)
 (Click this picture to simulate in falstad circuit simulator)
 
 The gateway is has three block that is Arduino block, HC-12 RF 433 MHz block, and GSM SIM800L block. 
@@ -104,12 +104,24 @@ Material required
 8. [BJT NPN 2N2222](https://my.cytron.io/p-transistor-2n2222?search=2N2222&description=1)
 9. [LDO 3.3V LM1117](https://my.cytron.io/p-voltage-regulator-plus-3.3v-1880?search=3.3&description=1)
 10. [LDO Adjustable LM317](https://my.cytron.io/p-ic-lm317?search=lm317&description=1)
+11. 100nF, 1µF, 10µF, 100µF,and 2200µF Capacitors
+12. 2x 1kOhm, 240Ohm,and 560Ohm Resistors
+13. 2x Switches
 
 ### 2. Sensor Node (I2C Sensor)
 
 [![Sensor Node Screen Shot][sensorNode-screenshot]](https://tinyurl.com/ybxluhys)
 (Click this picture to simulate in falstad circuit simulator)
 
+Material required
+1. [Arduino Nano (UNO can be used)](https://my.cytron.io/p-uno-compatible-ch340-with-usb-cable?search=uno&description=1)
+2. [Proto shield](https://my.cytron.io/p-cytron-prototyping-shield?search=proto&description=1)
+3. [Logic shifter (5V and 3.3V)](https://shopee.com.my/Logic-Converter-4-Channel-Bi-Directional-5V-3.3V-Level-Shifter-Module-i.13050358.1897892238)
+4. [HC-12 RF433MHz Module](https://my.cytron.io/c-wireless-devices/p-433mhz-rf-uart-transceiver-module-1km)
+5. [9V Power Supply](https://shopee.com.my/AC-DC-Adapter-9V-1A-Power-Supply-Arduino-PIC-i.13050358.1696099696)
+6. [LDO 3.3V LM1117](https://my.cytron.io/p-voltage-regulator-plus-3.3v-1880?search=3.3&description=1)
+7. 10µF, 100µF, and 2200µF Capacitors
+8. 2x switches
 
 ### 3. Gateway Programming 
 
