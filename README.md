@@ -127,6 +127,8 @@ Material required
 
 ### 3. Gateway Programming 
 
+In this section, we will look into how to program the Arduino gateway. First, we have to look into flow chart on how the code sequence works as any complicated system is best to visualize by using diagram.
+
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
