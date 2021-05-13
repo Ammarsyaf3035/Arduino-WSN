@@ -87,7 +87,9 @@ There are three section
 ### 1. Gateway
 
 [![Gateway Screen Shot][Gateway-screenshot]](https://tinyurl.com/yhq6l9zb)
-(Click the picture simulate in falstad circuit simulator)
+(Click this picture to simulate in falstad circuit simulator)
+
+The gateway is has three block that is Arduino block, HC-12 RF 433 MHz block, and GSM SIM800L block. 
 
 Material required
 1. [Arduino Nano (UNO can be used)](https://my.cytron.io/p-uno-compatible-ch340-with-usb-cable?search=uno&description=1)
@@ -104,10 +106,10 @@ Material required
 ### 2. Sensor Node (I2C Sensor)
 
 [![Sensor Node Screen Shot][sensorNode-screenshot]](https://tinyurl.com/yze45sqd)
-(Click the picture simulate in falstad circuit simulator)
+(Click this picture to simulate in falstad circuit simulator)
 
 
-### Prerequisites
+### 3. Gateway Programming 
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
