@@ -107,7 +107,7 @@ Material required
 
 ### 2. Sensor Node (I2C Sensor)
 
-[![Sensor Node Screen Shot][sensorNode-screenshot]](https://tinyurl.com/yze45sqd)
+[![Sensor Node Screen Shot][sensorNode-screenshot]](https://tinyurl.com/ybxluhys)
 (Click this picture to simulate in falstad circuit simulator)
 
 
