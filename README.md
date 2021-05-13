@@ -65,8 +65,9 @@
 ## About The Project
 This project guide how to build an IoT system using Arduino wireless sensor network. This system made up of a gateway and single or multiple sensor nodes that are connected to a gateway to forming a sensor nodes network. There are a multitude number of sensor nodes that can be added to the system making it highly scalable. Different types of sensor can be used for numerous applications such as monitoring room temperature and humidity, gathering a house power meter reading, and etcetera. The sensor nodes are connected to a single gateway that is a function to collect and transport the data from nodes to the internet. It is connected wirelessly using an RF 433MHz module, thus eliminating the use of wire making installation easy without messy wire.
 
-
 ![Product Name Screen Shot][Framework-screenshot]
+
+The diagram shows multiple sensor nodes connected to a gateway wirelessly using RF 433MHz communication module. The gateway collect the data from the nodes and transport it to online database via the Internet. The data is then visualize using ThingsSentral Application Web Dashboard.
 
 Project difficulty:
 **Grandmaster, it involves several skills:**
