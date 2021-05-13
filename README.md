@@ -91,7 +91,7 @@ There are three section
 [![Gateway Screen Shot][Gateway-screenshot]](https://tinyurl.com/y7dxtdnn)
 (Click this picture to simulate in falstad circuit simulator)
 
-The gateway is has three block that is Arduino block, HC-12 RF 433 MHz block, and GSM SIM800L block. 
+The gateway have three building block that is Arduino block, HC-12 RF 433 MHz block, and GSM SIM800L block. 
 
 Material required
 1. [Arduino Nano (UNO can be used)](https://my.cytron.io/p-uno-compatible-ch340-with-usb-cable?search=uno&description=1)
@@ -112,6 +112,8 @@ Material required
 
 [![Sensor Node Screen Shot][sensorNode-screenshot]](https://tinyurl.com/ybxluhys)
 (Click this picture to simulate in falstad circuit simulator)
+
+The sensor node have two building block which are Arduino, and HC-12 with sensor.
 
 Material required
 1. [Arduino Nano (UNO can be used)](https://my.cytron.io/p-uno-compatible-ch340-with-usb-cable?search=uno&description=1)
