@@ -138,10 +138,18 @@ Before we were able to transport the nodes data to the Internet, we must first s
    * First, click the setting symbol located at top right of the page as indicated by the orange arrow.
    * Click `Project Settings`
    * When the Project Settings page is shown as in the picture below, click `Add New` located at bottom left of the page.
-   * At New Project Name field, We will name our project with `My room monitoring`.
+   * At New Project Name field, We will name our project with `Room monitoring`.
    * Click `Save`.
 
 ![TS Project Screen Shot][projectSetting-screenshot]
+
+3. Setting up project location.
+   * Click `Location Settings` under setting menu.
+   * Select `Room monitoring` from Project ID menu located near top left of the page.
+   * Click `Add New` and fill `My room` at New Location Setting field.
+   * Click `Save`.
+
+![TS Location Screen Shot][locationSetting-screenshot]
 
 ### 4. Gateway Programming 
 
@@ -156,9 +164,15 @@ After successful account registration, we will get the sensor ID after we added 
 See the [open issues](https://github.com/Ammarsyaf3035/Arduino-Network/issues) for a list of proposed features (and known issues).
 
 ## References
-1. [Github Readme Guide](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
-2. [GSM Protocol Guide](https://www.tutorialspoint.com/gsm/gsm_protocol_stack.htm)
-3. 
+1. Github 
+   * [Github Readme Guide](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+2. GSM
+   * [GSM Protocol Guide](https://www.tutorialspoint.com/gsm/gsm_protocol_stack.htm)
+   * [Using SIM800L with Arduino Tutorial](https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/)
+3. Electronics
+   * [Isolated Driver](https://www.bristolwatch.com/ele/opto_isolated.htm)
+   * [MOSFET BJT tured driver](https://www.youtube.com/watch?v=fex79DvbZvg&ab_channel=LewisLoflin)
+   
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -220,3 +234,4 @@ Project Link: [https://github.com/Ammarsyaf3035/Arduino-Network](https://github.
 [gsmMain-screenshot]: images/gsmMain.png
 [registerAccount-screenshot]: images/ThingSentralAccount/registerAccount.PNG
 [projectSetting-screenshot]: images/ThingSentralAccount/projectSetting.png
+[locationSetting-screenshot]: images/ThingSentralAccount/locationSetting.png
