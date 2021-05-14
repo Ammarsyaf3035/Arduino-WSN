@@ -138,6 +138,8 @@ Before we were able to transport the nodes data to the Internet, we must first s
    * First
    * We will name our project with 'My room monitoring'.
 
+![TS Project Screen Shot][projectSetting-screenshot]
+
 ### 4. Gateway Programming 
 
 After successful account registration, we will get the sensor ID after we added a project as shown in the steps above, before proceeding with coding the gateway and the nodes. we first will look into how to program the Arduino gateway. First, we have to look into a flow chart on how the code sequence works as any complicated system is best to visualize by using a diagram.
@@ -238,3 +240,4 @@ Project Link: [https://github.com/Ammarsyaf3035/Arduino-Network](https://github.
 [sensorNode-screenshot]: images/sensorNode.PNG
 [gsmMain-screenshot]: images/gsmMain.png
 [registerAccount-screenshot]: images/ThingSentralAccount/registerAccount.PNG
+[projectSetting-screenshot]: images/ThingSentralAccount/projectSetting.png
