@@ -125,9 +125,13 @@ Material required
 7. 10µF, 100µF, and 2200µF Capacitors
 8. 2x switches
 
-### 3. Gateway Programming 
+### 3. Setup ThingsSentral Account
 
-In this section, we will look into how to program the Arduino gateway. First, we have to look into flow chart on how the code sequence works as any complicated system is best to visualize by using diagram.
+Before we were able to transport the nodes data to the Internet, we must first set up our account in the ThingsSentral Application to get the sensor ID. This ID is required as the address to which portfolio the data is going to be visualized.
+
+### 4. Gateway Programming 
+
+After successful account registration, we will get the sensor ID after we added a project as shown in the steps above, before proceeding with coding the gateway and the nodes. we first will look into how to program the Arduino gateway. First, we have to look into a flow chart on how the code sequence works as any complicated system is best to visualize by using a diagram.
 
 [![Gateway Flowchart Screen Shot][gsmMain-screenshot]](https://lucid.app/lucidchart/invitations/accept/inv_973f9c34-742d-4b43-ab90-21d9fb602df3)
 
