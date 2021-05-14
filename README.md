@@ -84,7 +84,7 @@ Project difficulty:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-There are three section 
+There are three section which are building gateway and sensor nodes, set up ThingsSentral Web Dashboard account, and programming the gatewat and sensor nodes.
 
 ### 1. Gateway
 
