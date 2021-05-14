@@ -129,6 +129,8 @@ Material required
 
 In this section, we will look into how to program the Arduino gateway. First, we have to look into flow chart on how the code sequence works as any complicated system is best to visualize by using diagram.
 
+[![Gateway Flowchart Screen Shot][gsmMain-screenshot]](https://lucid.app/lucidspark/invitations/accept/inv_1429b8cb-05df-4e46-8ce3-6a4f15b8325f?viewport_loc=-400%2C205%2C3117%2C1573%2C0_0)
+
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
@@ -221,3 +223,4 @@ Project Link: [https://github.com/Ammarsyaf3035/Arduino-Network](https://github.
 [Framework-screenshot]: images/Framework.PNG
 [Gateway-screenshot]: images/Gateway.PNG
 [sensorNode-screenshot]: images/sensorNode.PNG
+[gsmMain-screenshot]: images/gsmMain.png
