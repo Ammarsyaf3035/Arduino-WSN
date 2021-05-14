@@ -135,8 +135,11 @@ Before we were able to transport the nodes data to the Internet, we must first s
 ![TS Register Screen Shot][registerAccount-screenshot]
 
 2. Create your first project.
-   * First
-   * We will name our project with 'My room monitoring'.
+   * First, click the setting symbol located at top right of the page as indicated by the orange arrow.
+   * Click `Project Settings`
+   * When the Project Settings page is shown as in the picture below, click `Add New` located at bottom left of the page.
+   * At New Project Name field, We will name our project with `My room monitoring`.
+   * Click `Save`.
 
 ![TS Project Screen Shot][projectSetting-screenshot]
 
