@@ -130,7 +130,7 @@ Material required
 Before we were able to transport the nodes data to the Internet, we must first set up our account in the ThingsSentral Application to get the sensor ID. This ID is required as the address to which portfolio the data is going to be visualized. In this guide, we will create a project to monitor our room temperature and humidity.
 
 1. Register account [here](http://thingssentral.io:443/).
-   * Fill the information required and click Sign Up.
+   * Fill the information required and click `Sign Up`.
    
 ![TS Register Screen Shot][registerAccount-screenshot]
 
