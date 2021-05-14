@@ -149,40 +149,16 @@ After successful account registration, we will get the sensor ID after we added 
 
 [![Gateway Flowchart Screen Shot][gsmMain-screenshot]](https://lucid.app/lucidchart/invitations/accept/inv_973f9c34-742d-4b43-ab90-21d9fb602df3)
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/Ammarsyaf3035/Arduino-Network/issues) for a list of proposed features (and known issues).
 
-
+## References
+1. [Github Readme Guide](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+2. [GSM Protocol Guide](https://www.tutorialspoint.com/gsm/gsm_protocol_stack.htm)
+3. 
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -200,7 +176,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Apache 2.0 License. See `LICENSE` for more information.
 
 
 
