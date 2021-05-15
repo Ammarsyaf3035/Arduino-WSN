@@ -94,7 +94,7 @@ There are three section which are building gateway and sensor nodes, set up Thin
 The gateway have three building block that is Arduino block, HC-12 RF 433 MHz block, and GSM SIM800L block. 
 
 Material required
-1. [ ] [Arduino Nano (UNO can be used)](https://my.cytron.io/p-uno-compatible-ch340-with-usb-cable?search=uno&description=1)
+1. [Arduino Nano (UNO can be used)](https://my.cytron.io/p-uno-compatible-ch340-with-usb-cable?search=uno&description=1)
 2. [Proto shield](https://my.cytron.io/p-cytron-prototyping-shield?search=proto&description=1)
 3. [Logic shifter (5V and 3.3V)](https://shopee.com.my/Logic-Converter-4-Channel-Bi-Directional-5V-3.3V-Level-Shifter-Module-i.13050358.1897892238)
 4. [HC-12 RF433MHz Module](https://my.cytron.io/c-wireless-devices/p-433mhz-rf-uart-transceiver-module-1km)
