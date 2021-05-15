@@ -165,7 +165,7 @@ Before we were able to transport the nodes data to the Internet, we must first s
    * Click `Add New` and fill `Humidity` at `Sensor Name` field.
    * Click `Save`
    * Repeat third step to add `Temperature` sensor.
-   * Now, looking inside the red box as shown below, you have gathered two sensor IDs for each humidity and temperature sensor which are `0008C04010101` and `00008C04010102`  consecutively.
+   * Now, looking inside the red box as shown below, you have gathered two sensor IDs for each humidity and temperature sensor which are `0008C04010101` and `0008C04010102`  consecutively.
 
 ![TS Sensor Screen Shot][sensorSetting-screenshot]
 
