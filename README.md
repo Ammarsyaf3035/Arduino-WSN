@@ -137,27 +137,37 @@ Before we were able to transport the nodes data to the Internet, we must first s
 2. Create your first project.
    * First, click the setting symbol located at top right of the page as indicated by the orange arrow.
    * Click `Project Settings`
-   * When the Project Settings page is shown as in the picture below, click `Add New` located at bottom left of the page.
-   * At New Project Name field, We will name our project with `Room monitoring`.
+   * When the `Project Settings` page is shown as in the picture below, click `Add New` located at bottom left of the page.
+   * At `New Project Name` field, we will name our project with `Room monitoring`.
    * Click `Save`.
 
 ![TS Project Screen Shot][projectSetting-screenshot]
 
 3. Setting up project location.
    * Click `Location Settings` under setting menu.
-   * Select `Room monitoring` from Project ID menu located near top left of the page.
-   * Click `Add New` and fill `My Room` at New Location Setting field.
+   * Select `Room monitoring` from `Project ID` menu located near top left of the page.
+   * Click `Add New` and fill `My Room` at `New Location Setting` field.
    * Click `Save`.
 
 ![TS Location Screen Shot][locationSetting-screenshot]
 
 4. Next, set up gateway.
    * Under setting menu again, click `Gateway Settings`.
-   * Select `Room monitoring` from Project ID located and select `My Room` from Location ID at top left of the page.
+   * Select `Room monitoring` from `Project ID` located and select `My Room` from `Location ID` at top left of the page.
    * Click `Add New` and fill `Arduino Gateway` at New Gateway Setting field.
    * Click `Save`
 
 ![TS Gateway Screen Shot][gatewaySetting-screenshot]
+
+5. Finally, set up sensor.
+   * Under setting menu, click `Sensor Settings`.
+   * Select `Room monitoring` from `Project ID`, select `My Room` from `Location ID`, and select `Arduino Gateway` from `Gateway ID` located at top left of the page.
+   * Click `Add New` and fill `Humidity` at `Sensor Name` field.
+   * Click `Save`
+   * Repeat third step to add `Temperature` sensor.
+   * Now, you have gathered two sensor IDs for each humidity and temperature sensor which are `0008C04010101` and `00008C04010102`  consecutively.
+
+![TS Sensor Screen Shot][sensorSetting-screenshot]
 
 ### 4. Gateway Programming 
 
@@ -244,3 +254,4 @@ Project Link: [https://github.com/Ammarsyaf3035/Arduino-Network](https://github.
 [projectSetting-screenshot]: images/ThingSentralAccount/projectSetting.png
 [locationSetting-screenshot]: images/ThingSentralAccount/locationSetting.png
 [gatewaySetting-screenshot]: images/ThingSentralAccount/gatewaySetting.PNG
+[sensorSetting-screenshot]: images/ThingSentralAccount/sensorSetting.PNG
