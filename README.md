@@ -146,10 +146,18 @@ Before we were able to transport the nodes data to the Internet, we must first s
 3. Setting up project location.
    * Click `Location Settings` under setting menu.
    * Select `Room monitoring` from Project ID menu located near top left of the page.
-   * Click `Add New` and fill `My room` at New Location Setting field.
+   * Click `Add New` and fill `My Room` at New Location Setting field.
    * Click `Save`.
 
 ![TS Location Screen Shot][locationSetting-screenshot]
+
+4. Next, set up gateway.
+   * Under setting menu again, click `Gateway Settings`.
+   * Select `Room monitoring` from Project ID located and select `My Room` from Location ID at top left of the page.
+   * Click `Add New` and fill `Arduino Gateway` at New Gateway Setting field.
+   * Click `Save`
+
+![TS Gateway Screen Shot][gatewaySetting-screenshot]
 
 ### 4. Gateway Programming 
 
@@ -235,3 +243,4 @@ Project Link: [https://github.com/Ammarsyaf3035/Arduino-Network](https://github.
 [registerAccount-screenshot]: images/ThingSentralAccount/registerAccount.PNG
 [projectSetting-screenshot]: images/ThingSentralAccount/projectSetting.png
 [locationSetting-screenshot]: images/ThingSentralAccount/locationSetting.png
+[gatewaySetting-screenshot]: images/ThingSentralAccount/gatewaySetting.png
