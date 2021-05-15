@@ -243,4 +243,4 @@ Project Link: [https://github.com/Ammarsyaf3035/Arduino-Network](https://github.
 [registerAccount-screenshot]: images/ThingSentralAccount/registerAccount.PNG
 [projectSetting-screenshot]: images/ThingSentralAccount/projectSetting.png
 [locationSetting-screenshot]: images/ThingSentralAccount/locationSetting.png
-[gatewaySetting-screenshot]: images/ThingSentralAccount/gatewaySetting.png
+[gatewaySetting-screenshot]: images/ThingSentralAccount/gatewaySetting.PNG
