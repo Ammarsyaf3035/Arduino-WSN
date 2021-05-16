@@ -77,8 +77,7 @@ Project difficulty:
 ### Built With
 
 * [Arduino](https://www.arduino.cc/)
-* [ThinsSentral Dashboard](http://thingssentral.io:443/)
-
+* [ThingsSentral Dashboard](http://thingssentral.io:443/)
 
 
 <!-- GETTING STARTED -->
@@ -93,7 +92,7 @@ There are three section which are building gateway and sensor nodes, set up Thin
 
 The gateway have three building block that is Arduino block, HC-12 RF 433 MHz block, and GSM SIM800L block. 
 
-Material required
+#### Material required
 1. [Arduino Nano (UNO can be used)](https://my.cytron.io/p-uno-compatible-ch340-with-usb-cable?search=uno&description=1)
 2. [Proto shield](https://my.cytron.io/p-cytron-prototyping-shield?search=proto&description=1)
 3. [Logic shifter (5V and 3.3V)](https://shopee.com.my/Logic-Converter-4-Channel-Bi-Directional-5V-3.3V-Level-Shifter-Module-i.13050358.1897892238)
@@ -107,6 +106,9 @@ Material required
 11. 100nF, 1µF, 10µF, 100µF,and 2200µF Capacitors
 12. 2x 1kOhm, 240Ohm,and 560Ohm Resistors
 13. 2x Switches
+
+#### Fabrication
+Important note: The electronic components connection must be soldered especially for GSM SIM800L block as this module use surges of current for to connect with band tower. The wire connection using jumper wire may not able to supply burst of current efficiently. Moreover, the IRF4905 is specially chosen as it have low drain-source resistance with capability to allow large current flow despite of it quite high cost. This is important to make sure the GSM module run smoothly.
 
 ### 2. Sensor Node (I2C Sensor)
 
@@ -175,11 +177,9 @@ After successful account registration, we will get the sensor ID after we added 
 
 [![Gateway Flowchart Screen Shot][gsmMain-screenshot]](https://lucid.app/lucidchart/invitations/accept/inv_973f9c34-742d-4b43-ab90-21d9fb602df3)
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/Ammarsyaf3035/Arduino-Network/issues) for a list of proposed features (and known issues).
+#### Code description
+1. The use of PROGMEM is to reallocate the char arrays from limited SRAM memory into flash memory to avoid memory shortage that can cause the program to run improperly or crash.
+2. Char array is used instead of string as string use quite larga SRAM memory thus making the program run properly. Learn about Arduino memories [here](https://learn.adafruit.com/memories-of-an-arduino?view=all).
 
 ## References
 1. Github 
@@ -202,7 +202,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
 
 
 <!-- LICENSE -->
