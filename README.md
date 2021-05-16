@@ -215,7 +215,7 @@ Distributed under the Apache 2.0 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ammar Syafiq Sabaahul Ahmad - [@twitter_handle](https://twitter.com/twitter_handle) - a.sabahul@gmail.com
+Ammar Syafiq Sabaahul Ahmad - [My Linkedin](https://www.linkedin.com/in/ammar-syafiq-sabaahul-ahmad-042ba9156) - a.sabahul@gmail.com
 
 Project Link: [https://github.com/Ammarsyaf3035/Arduino-Network](https://github.com/Ammarsyaf3035/Arduino-Network)
 
