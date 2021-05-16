@@ -172,12 +172,13 @@ Before we were able to transport the nodes data to the Internet, we must first s
 ![TS Sensor Screen Shot][sensorSetting-screenshot]
 
 ### 4. Gateway Programming 
-
+#### Program Flow
 After successful account registration, we will get the sensor ID after we added a project as shown in the steps above, before proceeding with coding the gateway and the nodes. we first will look into how to program the Arduino gateway. First, we have to look into a flow chart on how the code sequence works as any complicated system is best to visualize by using a diagram.
 
 [![Gateway Flowchart Screen Shot][gsmMain-screenshot]](https://lucid.app/lucidchart/invitations/accept/inv_973f9c34-742d-4b43-ab90-21d9fb602df3)
 
 #### Code description
+Note
 1. The use of PROGMEM is to reallocate the char arrays from limited SRAM memory into flash memory to avoid memory shortage that can cause the program to run improperly or crash.
 2. Char array is used instead of string as string use quite larga SRAM memory thus making the program run properly. Learn about Arduino memories [here](https://learn.adafruit.com/memories-of-an-arduino?view=all).
 
