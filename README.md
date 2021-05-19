@@ -87,7 +87,7 @@ There are three section which are building gateway and sensor nodes, set up Thin
 
 ### 1. Gateway
 
-[![Gateway Screen Shot][Gateway-screenshot]](https://tinyurl.com/y7dxtdnn)
+[![Gateway Screen Shot][Gateway-screenshot]](https://tinyurl.com/yzx5fm97)
 (Click this picture to simulate in falstad circuit simulator)
 
 The gateway have three building block that is Arduino block, HC-12 RF 433 MHz block, and GSM SIM800L block. 
