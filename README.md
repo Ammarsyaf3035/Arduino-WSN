@@ -247,8 +247,8 @@ Project Link: [https://github.com/Ammarsyaf3035/Arduino-Network](https://github.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ammar-syafiq-sabaahul-ahmad-042ba9156/
 [Framework-screenshot]: images/Framework.PNG
-[Gateway-screenshot]: images/Gateway.PNG
-[sensorNode-screenshot]: images/sensorNode.PNG
+[Gateway-screenshot]: images/Hardware/Gateway.PNG
+[sensorNode-screenshot]: images/Hardware/sensorNode.PNG
 [gsmMain-screenshot]: images/gsmMain.png
 [registerAccount-screenshot]: images/ThingSentralAccount/registerAccount.PNG
 [projectSetting-screenshot]: images/ThingSentralAccount/projectSetting.png
