@@ -101,11 +101,10 @@ The gateway have three building block that is Arduino block, HC-12 RF 433 MHz bl
 6. [9V Power Supply](https://shopee.com.my/AC-DC-Adapter-9V-1A-Power-Supply-Arduino-PIC-i.13050358.1696099696)
 7. [PNP MOSFET IRF4905](https://my.cytron.io/p-transistor-irf4905?search=IRF4905&description=1&sub_category=true)
 8. [BJT NPN 2N2222](https://my.cytron.io/p-transistor-2n2222?search=2N2222&description=1)
-9. [LDO 3.3V LM1117](https://my.cytron.io/p-voltage-regulator-plus-3.3v-1880?search=3.3&description=1)
-10. [LDO Adjustable LM317](https://my.cytron.io/p-ic-lm317?search=lm317&description=1)
-11. 100nF, 1µF, 10µF, 100µF,and 2200µF Capacitors
-12. 2x 1kOhm, 240Ohm,and 560Ohm Resistors
-13. 2x Switches
+9. [LDO Adjustable LM317](https://my.cytron.io/p-ic-lm317?search=lm317&description=1)
+10. 100nF, 1µF, 10µF, 100µF,and 2200µF Capacitors
+11. 2x 1kOhm, 240Ohm,and 560Ohm Resistors
+12. Slide switch
 
 #### Fabrication
 Important note: The electronic components connection must be soldered especially for GSM SIM800L block as this module use surges of current for to connect with band tower. The wire connection using jumper wire may not able to supply burst of current efficiently. Moreover, the IRF4905 is specially chosen as it have low drain-source resistance with capability to allow large current flow despite of it quite high cost. This is important to make sure the GSM module run smoothly.
